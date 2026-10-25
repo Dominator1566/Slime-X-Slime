@@ -1,9 +1,9 @@
 const cacheName = "SomethingRandomStudios-SuperAwesomeSlimeGame-1.0";
 const contentToCache = [
-    "Build/1cf882ad73b24ec65b008aa43b150ad0.loader.js",
+    "Build/800044f929126c866a4d430c195b81df.loader.js",
     "Build/caf7146eecc8cd5192af0eae59011204.framework.js",
-    "Build/0be0131373e783154a3dfec3e54083ba.data",
-    "Build/48956124fda1e8e110342be6c6e4229e.wasm",
+    "Build/73cafee32489982cb1a886e0166ec5ec.data",
+    "Build/7da539c9e8341e077d541919b452920d.wasm",
     "TemplateData/style.css"
 
 ];
